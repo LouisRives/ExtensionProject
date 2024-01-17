@@ -1,0 +1,19 @@
+Rule name : 
+CastNames
+
+Rule definition :
+table.cast_list tr td:not(.spacer):not(.ellipsis):not(.character):not(.primary_photo) a
+
+
+
+.simpleTable.simpleCreditsTable td.name a
+
+
+
+Fit: https://www.fit.vut.cz/.en
+----------------------------------------------------
+h2.c-news__title,
+
+time[itemprop="startTime"][datetime="2024-01-02"],
+
+time[itemprop="startTime"][datetime="2023-12-24"]
